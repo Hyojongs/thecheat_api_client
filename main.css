@@ -1,0 +1,14 @@
+body {
+  width: 310px;
+  position: relative;
+  align-items: center;
+  text-align: center;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+#inf {
+  font-size: 10px;
+}

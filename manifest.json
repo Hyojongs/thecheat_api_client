@@ -1,0 +1,9 @@
+{
+    "name": "더치트입니다.",
+    "description": "change background color",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup" : "index.html"
+    }
+}
