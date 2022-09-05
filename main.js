@@ -19,7 +19,7 @@ function itis(caution) {
 
 function find() {
   fetch(
-    `http://54.219.164.2:5000/serch?keywordtype=${select_type.value}&keyword=${input_text.value}`
+    `http://54.215.31.42:5000/serch?keywordtype=${select_type.value}&keyword=${input_text.value}`
   )
     .then((data) => data.json())
     .then((data) => {
